@@ -1,0 +1,7 @@
+.git
+.devcontainer
+notebooks
+scripts
+__pycache__
+*.pyc
+.env
